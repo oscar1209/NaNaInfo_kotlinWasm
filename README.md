@@ -1,1 +1,1 @@
-這是假想以一間科技公司為需求開發的網站，使用[Kotlin Wasm](https://kotlinlang.org/docs/wasm-overview.html)相關的技術<123
+這是假想以一間科技公司為需求開發的網站，使用[Kotlin Wasm](https://kotlinlang.org/docs/wasm-overview.html)相關的技術
