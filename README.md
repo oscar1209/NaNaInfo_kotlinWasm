@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a Kotlin Multiplatform project targeting Web, Server.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
@@ -22,3 +23,6 @@ We would appreciate your feedback on Compose/Web and Kotlin/Wasm in the public S
 If you face any issues, please report them on [GitHub](https://github.com/JetBrains/compose-multiplatform/issues).
 
 You can open the web application by running the `:composeApp:wasmJsBrowserDevelopmentRun` Gradle task.
+=======
+這是假想以一間科技公司為需求開發的網站，使用[Kotlin Wasm](https://kotlinlang.org/docs/wasm-overview.html)相關的技術，
+>>>>>>> f8d309e (Initial commit)
